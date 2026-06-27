@@ -1,6 +1,6 @@
-# Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
+#  Extraindo Insights do Feedback de Clientes Bancários
 
-## Prompt Final
+## Prompt
 
 Atue como **analista de dados e experiência do cliente em um banco**.
 
