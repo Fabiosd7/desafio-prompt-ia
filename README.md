@@ -1,6 +1,6 @@
 #  Extraindo Insights do Feedback de Clientes Bancários
 
-## Prompt
+## Prompt Utilizado
 
 Atue como **analista de dados e experiência do cliente em um banco**.
 
